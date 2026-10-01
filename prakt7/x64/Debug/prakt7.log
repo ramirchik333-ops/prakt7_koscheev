@@ -1,0 +1,7 @@
+﻿  prakt7.cpp
+C:\Users\st310-07\Desktop\koscheev\prakt7\prakt7.cpp(34,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-07\Desktop\koscheev\prakt7\prakt7.cpp(38,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-07\Desktop\koscheev\prakt7\prakt7.cpp(42,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-07\Desktop\koscheev\prakt7\prakt7.cpp(46,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-07\Desktop\koscheev\prakt7\prakt7.cpp(50,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  prakt7.vcxproj -> C:\Users\st310-07\Desktop\koscheev\prakt7\x64\Debug\prakt7.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Desktop\\koscheev\\prakt7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A42568E8-651A-4184-BA54-2F43BAC6F871}|prakt7.vcxproj|C:\\Users\\st310-07\\Desktop\\koscheev\\prakt7\\prakt7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A42568E8-651A-4184-BA54-2F43BAC6F871}|prakt7.vcxproj|solutionrelative:prakt7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prakt7.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\koscheev\\prakt7\\prakt7.cpp",
+              "RelativeDocumentMoniker": "prakt7.cpp",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\koscheev\\prakt7\\prakt7.cpp",
+              "RelativeToolTip": "prakt7.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAHoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-30T07:29:19.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
